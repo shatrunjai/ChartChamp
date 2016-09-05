@@ -166,7 +166,7 @@ for (i in 1:length(vi))
 }
 
 #Plot the tree
-plot(fit_all, uniform=TRUE,main="Classification Tree for which rules case things to goto FUW")
+plot(fit_all, uniform=TRUE,main="Varibales which are important for predicting HIGH SATA & LOW HOUSE PRICE Districts")
 text(fit_all, use.n=TRUE, all=TRUE, cex=.8)
 
 ####################################################################################
