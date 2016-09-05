@@ -24,6 +24,7 @@ Acknowledgements: Professor Jeffrey Shaffer for teaching me tableau and data vis
 
 About the author:
 Shatrunjai Singh
-Senior Data Scientist, John Hancock Insurance
+Senior Data Scientist, John Hancock Insurance 
+Email: shatrunjai@gmail.com
 http://www.shatrunjai.com/    https://www.linkedin.com/in/shatrunjai  https://github.com/shatrunjai
 
