@@ -3,6 +3,8 @@ Data and Code used to build the dashboard for ChartChamp 2016
 
 Dashboard Title:  Districts punching above their weight (Finding MA districts with high SAT scores and low house prices)
 
+Acknowledgements: Professor Jeffrey Shaffer for teaching me tableau and data visualization. My boss Vishwa & my colleagues at John Hancock Insurance & my family for their support and encouragement. 
+
 Data Used:
 •	SAT data from dataset provided
 •	Crime data from neighborhood scout ( https://www.neighborhoodscout.com/ma/crime/) using import.io for automated web scrapping
@@ -19,8 +21,6 @@ Inference: A few districts have good SAT ranks and low House prices. This may be
 -	Receive small government funding 
 -	Have a lot of qualified teachers teaching in core areas (important)
 -	Teachers tend to be as popular with students irrespective of where they live (in MA)
-
-Acknowledgements: Professor Jeffrey Shaffer for teaching me tableau and data visualization. My boss & colleagues at John Hancock Insurance & my family for their support and encouragement. 
 
 About the author:
 Shatrunjai Singh
